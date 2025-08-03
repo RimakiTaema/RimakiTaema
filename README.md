@@ -12,6 +12,8 @@ My name is Thanapat, You can call me Rimaki (It's easier to call)
 - 😄 Pronouns: Rimaki (Or any)
 - ⚡ Fun fact: I'm currently coding on phone and no plan to get pc anytime (Donation of computer is appreciated btw)
 
+RimakiTaema's Know/Work With Language
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,C++,react,)](https://skillicons.dev)
 ![RimakiTaema's Stats](https://github-readme-stats.vercel.app/api?username=RimakiTaema&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![RimakiTaema's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RimakiTaema&theme=vue-dark&hide_border=true)
 ![RimakiTaema's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RimakiTaema&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
