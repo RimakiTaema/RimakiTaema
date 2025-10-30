@@ -2,7 +2,7 @@
 
 ### A passionate Java developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RimakiTaema&label=Profile views&color=0e75b6&style=flat" alt="RimakiTaema" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RimakiTaema/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RimakiTaema" alt="RimakiTaema" /></a> </p>
 
