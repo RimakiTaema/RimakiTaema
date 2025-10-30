@@ -14,10 +14,10 @@ RimakiTaema's Know or Work With Language
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,cpp,react,php)](https://skillicons.dev)
 RimakiTaema's Know Skills in Cloud Providers
 
+[![My Cloud Skill](https://skillicons.dev/icons?i=azure,gcp)](https://skillicons.dev)
+
 RimakiTaema's Work with IDEs
 [![My IDE](https://skillicons.dev/icons?i=idea,vscode,pycharm)](https://skillicons.dev)
-
-[![My Cloud Skill](https://skillicons.dev/icons?i=azure,gcp)](https://skillicons.dev)
 
 
 
