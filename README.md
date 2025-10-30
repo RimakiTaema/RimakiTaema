@@ -12,6 +12,6 @@ My name is Thanapat, You can call me Rimaki (It's easier to call)
 
 RimakiTaema's Know or Work With Language
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,cpp,react,)](https://skillicons.dev)
-![RimakiTaema's Stats](https://github-readme-stats.vercel.app/api?username=RimakiTaema&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![RimakiTaema's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RimakiTaema&theme=vue-dark&hide_border=true)
-![RimakiTaema's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RimakiTaema&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+RimakiTaema's Know Skills in Cloud Providers
+[![My Cloud Skill](https://skillicons.dev/icons?i=azure,oracle,linode,gcp)](https://skillicons.dev)
+
