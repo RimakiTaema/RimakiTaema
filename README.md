@@ -11,7 +11,13 @@ My name is Thanapat, You can call me Rimaki (It's easier to call)
 - ⚡ Fun fact: I'm currently coding on phone and no plan to get pc anytime (Donation of computer is appreciated btw)
 
 RimakiTaema's Know or Work With Language
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,cpp,react,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,cpp,react,php)](https://skillicons.dev)
 RimakiTaema's Know Skills in Cloud Providers
-[![My Cloud Skill](https://skillicons.dev/icons?i=azure,oracle,linode,gcp)](https://skillicons.dev)
+
+RimakiTaema's Work with IDEs
+[![My IDE](https://skillicons.dev/icons?i=idea,vscode,pycharm)](https://skillicons.dev)
+
+[![My Cloud Skill](https://skillicons.dev/icons?i=azure,gcp)](https://skillicons.dev)
+
+
 
