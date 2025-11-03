@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/RimakiTaema" target="blank"><img src="https://img.shields.io/twitter/follow/RimakiTaema?logo=twitter&style=for-the-badge" alt="RimakiTaema" /></a> </p>
 
-- 🔭 I'm currently working on **PNX Plugin,Web Kit And Lyricstator**
+- 🔭 I'm currently working on **BDS Api Plugin And Blueprint Themes**
 
 - 🌱 I'm currently learning **C++,Javascript,Java And php**
 
@@ -21,7 +21,7 @@
 - ⚡ Fun fact **It's i code entirely In phone
 A bit pc but not a lot**
 
-- 👨‍💻 All of my projects are available at **[https://rimakiproject.online/portfolio](https://rimakiproject.online/portfolio)**
+- 👨‍💻 All of my projects are available at **[https://rimakiproject.online/](https://rimakiproject.online/)**
 
 - 📝 I regularly write articles on **[https://rimakiproject.online](https://rimakiproject.online)**
 
