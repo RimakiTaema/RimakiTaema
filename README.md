@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/RimakiTaema" target="blank"><img src="https://img.shields.io/twitter/follow/RimakiTaema?logo=twitter&style=for-the-badge" alt="RimakiTaema" /></a> </p>
 
-- 🔭 I'm currently working on **BDS Api Plugin And Blueprint Themes**
+- 🔭 I'm currently working on **GC2 Server Rewrite**
 
 - 🌱 I'm currently learning **C++,Javascript,Java And php**
 
