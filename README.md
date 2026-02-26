@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rimaki
+l# Hi 👋, I'm Rimaki
 
 ### A passionate Java developer
 
@@ -21,9 +21,9 @@
 - ⚡ Fun fact **It's i code entirely In phone
 A bit pc but not a lot**
 
-- 👨‍💻 All of my projects are available at **[https://rimakiproject.online/](https://rimakiproject.online/)**
+- 👨‍💻 All of my projects are available at **[https://rimakiproject.online/](https://rimaki.net/)**
 
-- 📝 I regularly write articles on **[https://rimakiproject.online](https://rimakiproject.online)**
+- 📝 I regularly write articles on **[https://rimakiproject.online](https://rimaki.net)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
