@@ -30,7 +30,6 @@ I'm **Rimaki**, a developer from Thailand passionate about building web and mobi
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently working as a Developer at **[realms.in.th](https://realms.in.th)** (Part-time)
 - 📚 Learning **React** & **Next.js** to expand my full-stack capabilities
 - ⚡ Building **ExaTon NEXT** and personal projects in my free time
 - 🌱 Always eager to learn new technologies and best practices
